@@ -23,7 +23,7 @@ Implement the `MyStack` class:
 [[], [1], [2], [], [], []]  
 **Output**  
 [null, null, null, 2, 2, false]  
-> 
+>   
 > **Explanation**  
 MyStack myStack = new MyStack();  
 myStack.push(1);  
