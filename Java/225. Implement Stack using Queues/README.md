@@ -24,7 +24,7 @@ Implement the `MyStack` class:
 **Output**  
 [null, null, null, 2, 2, false]  
   
-**Explanation**  
+> **Explanation**  
 MyStack myStack = new MyStack();  
 myStack.push(1);  
 myStack.push(2);  
