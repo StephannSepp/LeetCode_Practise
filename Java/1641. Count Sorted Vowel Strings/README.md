@@ -25,7 +25,7 @@ Explanation: The 15 sorted strings that consist of vowels only are
 Note that "ea" is not a valid string since 'e' comes after 'a' in the alphabet.
 ```
 
-##### Example 2:
+##### Example 3:
 
 ```
 Input: n = 33  
