@@ -9,19 +9,25 @@ Return the shortest such subarray and output its length.
 
 ##### Example 1:
 
-> Input: nums = [2,6,4,8,10,9,15]  
+```
+Input: nums = [2,6,4,8,10,9,15]  
 Output: 5  
 Explanation: You need to sort [6, 4, 8, 10, 9] in ascending order to make the whole array sorted in ascending order.
+```
 
 ##### Example 2:
 
-> Input: nums = [1,2,3,4]  
+```
+Input: nums = [1,2,3,4]  
 Output: 0
+```
 
 ##### Example 3:
 
-> Input: nums = [1]
+```
+Input: nums = [1]
 Output: 0
+```
 
 ## Solution
 ```java
